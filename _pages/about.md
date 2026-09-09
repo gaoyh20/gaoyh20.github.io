@@ -31,4 +31,8 @@ His research lies at the intersection of systems and AI, focusing on efficient a
   <span class="about-chip">⚙️ Efficient systems</span>
 </div>
 
+## Services
+
+Reviewer for ACM Transactions on Architecture and Code Optimization (TACO).
+
 To learn more about his research, please visit the [publications](/publications/) page.
