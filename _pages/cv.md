@@ -1,7 +1,7 @@
 ---
 layout: cv
-permalink: /cv/
-title: cv
+permalink: /education/
+title: Education
 nav: true
 nav_order: 5
 description: 
