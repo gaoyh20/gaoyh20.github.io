@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: left
-  image: prof_pic.png
+  image: yuanhang-gao.png
   image_circular: false
   width: 30%
 

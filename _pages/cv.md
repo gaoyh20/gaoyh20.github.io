@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /education/
-title: Education
+title: education
 nav: true
 nav_order: 5
 description: 
